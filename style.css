@@ -14,13 +14,17 @@ a {
   bottom: 10px;
   border: 0;
   border-radius: 5px;
-
-}
-.foter{
-  position: fixed;
-  right: 10px;
-  bottom: 10px;
-  border: 0;
-  border-radius: 5px;
 }
 /*---------body FIN---------------------------- */
+
+.presentation{
+  word-wrap: break-word;
+  width: 100%;
+  max-width: 1280px;
+  height: auto;
+  margin: auto;
+  margin-top: 80px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 25px;
+  box-shadow: 10px 5px 5px rgb(230, 228, 228);
+}
